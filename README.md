@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/Christian73737/ScrumProject/_apis/build/status%2Fkwypto.AZ400-2-3?branchName=main)](https://dev.azure.com/Christian73737/ScrumProject/_build/latest?definitionId=4&branchName=main)
